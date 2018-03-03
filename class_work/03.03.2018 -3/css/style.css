@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: black;
+    
+    
+    
+}
+.position{
+    margin: auto;
+    width: 90%;
+    height: 100%;
+    position: relative;
+
+    
+
+}
+p{
+    padding: 10px;
+}
+div{
+    width: 90%;
+    display: inline-block;
+    border-radius: 25%;
+    color: wheat;
+    top: 10%;
+    left: 5%;
+
+}
+.first{
+    position: absolute;
+    background-color: #a59696;
+    margin: auto;
+    height: 600px;
+    
+}
+.second{
+    position: absolute;
+    background-color: #645757;
+    margin: auto;
+    
+    height: 500px;
+}
+.thiry{
+    position: absolute;
+    background-color: #706666;
+    margin: auto;
+    
+    height: 400px;
+    
+}
+.four{
+    position: absolute;
+    background-color: #867c7c;
+    margin: auto;
+    
+    height: 300px;
+}
+.five{
+    position: absolute;
+    background-color: #8b8181;
+    margin: auto;
+    
+    height: 200px;;
+}
+.six{
+    position: absolute;
+    background-color: #8d8080;
+    margin: auto;
+    
+    height: 100px;
+}
+.seven{
+    position: absolute;
+    background-color: #b1a7a7;
+    margin: auto;
+    
+    height: 140px;
+}
+.eight{
+    position: absolute;
+    background-color: #cabdbd;
+    margin: auto;
+    
+    height: 100px;
+}

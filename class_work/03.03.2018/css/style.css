@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    width: 100%;
+    background-color: yellow;
+    
+    
+}
+.position{
+    margin: 0% auto;
+    border: 2px solid orangered;
+    width: 80%;
+    height: 400px;
+    margin-top: 8%;
+    position: relative;
+
+}
+p{
+    padding: 10px;
+}
+div{
+    width: 9%;
+    height: 90px;
+    display: inline-block;
+    background-color: orangered;
+    color: wheat;
+}
+.first{
+    position: absolute;
+}
+.second{
+    position: absolute;
+    bottom: 2%;
+    left: 2%;
+}
+.thiry{
+    position: absolute;
+    top: 43%;
+    right: -5%;
+}
